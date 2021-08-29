@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+}
+h1 {
+    color: greenyellow;
+    text-align: center;
+}
+h2 {
+    color: hotpink;
+}
+ul{
+    font-style: italic;
+    line-height: 40px;
+}
